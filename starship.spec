@@ -2,7 +2,7 @@
 %undefine _package_note_file
 
 Name: starship
-Version: 1.13.1
+Version: 1.15.0
 Release: 1%{?dist}
 Summary: Minimal, blazing-fast, and infinitely customizable prompt for any shell! â˜„ğŸŒŒï¸�
 
